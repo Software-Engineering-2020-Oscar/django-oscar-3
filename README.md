@@ -12,6 +12,11 @@ customised to suit the needs of your project.  This allows a wide range of
 e-commerce requirements to be handled, from large-scale B2C sites to complex B2B
 sites rich in domain-specific business logic.
 
+# Caution - must read :thinking:
+* Please mark this as we are junior from TDTU and this repo is consumed as a fair-used project to submit to our subject Software Engineering only, which means there will be no further application in the future.
+* If you want to re-use, please contact me through my email which is provided above. 
+* If you're trying to bypass the rules, you know what will come. :relieved:
+
 Contents:
 
 <p><img src = "https://github.com/django-oscar/django-oscar/raw/master/docs/images/screenshots/oscarcommerce.thumb.png"/><img src = "https://github.com/django-oscar/django-oscar/raw/master/docs/images/screenshots/readthedocs.thumb.png"/></p>
