@@ -14,13 +14,7 @@ sites rich in domain-specific business logic.
 
 Contents:
 
-.. contents:: :local:
-
-.. image:: https://github.com/django-oscar/django-oscar/raw/master/docs/images/screenshots/oscarcommerce.thumb.png
-    :target: http://oscarcommerce.com
-
-.. image:: https://github.com/django-oscar/django-oscar/raw/master/docs/images/screenshots/readthedocs.thumb.png
-    :target: https://django-oscar.readthedocs.io/en/stable/
+<p><img src = "https://github.com/django-oscar/django-oscar/raw/master/docs/images/screenshots/oscarcommerce.thumb.png"/><img src = "https://github.com/django-oscar/django-oscar/raw/master/docs/images/screenshots/readthedocs.thumb.png"/></p>
 
 Further reading:
 
@@ -92,21 +86,19 @@ Docs status:
 ### My projetc team:
 
 * [`Dang Duc Vinh`]()
-* [`Nguyen Thanh Nguyen`]()
-* [`Nguyen Minh Nhut`]()
+* [`Nguyen Minh Nhut`](https://github.com/NhutNguyen236)
+* [`Nguyen Thanh Nguyen`](https://github.com/kiddonguyen)
 * [`Vo Lam Duy Thuan`]()
-* [`Ha Quan Quan`]()
+* [`Ha Quan Quan`](https://github.com/Blanc-2308)
 
 Supported versions
 ------------------
 
 The currently supported versions of Oscar are:
 
-+---------+----------------+
 | Version | End of support |
-+=========+================+
-| 2.1 LTS | August 2023    |
-+---------+----------------+
+|:-------:|:--------------:|
+| 2.1 LTS |   August 2023  |
 
 Supported verions are eligible for fixes for data loss bugs and security issues. Releases designated as
 Long-term support (LTS) releases will receive support for an extended period of 3 years from their release date.
