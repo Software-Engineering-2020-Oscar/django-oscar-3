@@ -16,11 +16,9 @@ Contents:
 
 .. contents:: :local:
 
-.. image:: https://github.com/django-oscar/django-oscar/raw/master/docs/images/screenshots/oscarcommerce.thumb.png
-    :target: http://oscarcommerce.com
+<p><img src = "https://github.com/django-oscar/django-oscar/raw/master/docs/images/screenshots/oscarcommerce.thumb.png"/></p>
 
-.. image:: https://github.com/django-oscar/django-oscar/raw/master/docs/images/screenshots/readthedocs.thumb.png
-    :target: https://django-oscar.readthedocs.io/en/stable/
+<p><img src = "https://github.com/django-oscar/django-oscar/raw/master/docs/images/screenshots/readthedocs.thumb.png"/></p>
 
 Further reading:
 
