@@ -121,45 +121,28 @@ The following extensions are stable and ready for use:
 
 * [django-oscar-adyen](https://github.com/django-oscar/django-oscar-adyen) - Integration with the Adyen payment gateway
 
-* [django-oscar-datacash](https://github.com/django-oscar/django-oscar-datacash) - Integration with the DataCash_ payment gateway
+* [django-oscar-datacash](https://github.com/django-oscar/django-oscar-datacash) - Integration with the [DataCash](http://www.datacash.com/) payment gateway
 
-* django-oscar-paypal_ - Integration with PayPal.  This currently supports both
-  `Express Checkout`_ and `PayFlow Pro`_.
+* [django-oscar-paypal](https://github.com/django-oscar/django-oscar-paypal) - Integration with PayPal.  This currently supports both
+  [`Express Checkout`](https://www.paypal.com/uk/cgi-bin/webscr?cmd=_additional-payment-ref-impl1) and [`PayFlow Pro`](https://merchant.paypal.com/us/cgi-bin/?cmd=_render-content&content_ID=merchant/payment_gateway).
 
-* django-oscar-paymentexpress_ - Integration with the `Payment Express`_ payment
+* [django-oscar-paymentexpress](https://github.com/django-oscar/django-oscar-paymentexpress)- Integration with the [`Payment Express`](http://www.paymentexpress.com) payment
   gateway
 
-* django-oscar-accounts_ - Managed accounts (can be used for giftcard
+* [django-oscar-accounts](https://github.com/django-oscar/django-oscar-accounts) - Managed accounts (can be used for giftcard
   functionality and loyalty schemes)
 
-* django-oscar-stores_ - Physical stores integration (opening hours, store
+* [django-oscar-stores](https://github.com/django-oscar/django-oscar-stores) - Physical stores integration (opening hours, store
   locator etc)
 
-* django-oscar-eway_ - Integration with the eWay_ payment gateway.
+* [django-oscar-eway](https://github.com/snowball-one/django-oscar-eway) - Integration with the [eWay](https://www.eway.com.au) payment gateway.
 
-* django-oscar-sagepay-direct_ - Integration with "DIRECT" part of Sagepay's API
+* [django-oscar-sagepay-direct](https://github.com/django-oscar/django-oscar-sagepay-direct) - Integration with "DIRECT" part of Sagepay's API
 
-* django_oscar_docdata_ - Integration with Docdata_ payment gateway.
+* [django_oscar_docdata](https://github.com/django-oscar/django-oscar-docdatac)- Integration with Docdata_ payment gateway.
 
-* django_oscar_invoices_ - Invoices or receipts generation for the
+* [django_oscar_invoices](https://github.com/django-oscar/django-oscar-invoices) - Invoices or receipts generation for the
   Oscar
-  
-.. _django-oscar-paymentexpress: https://github.com/django-oscar/django-oscar-paymentexpress
-.. _`Payment Express`: http://www.paymentexpress.com
-.. _DataCash: http://www.datacash.com/
-.. _django-oscar-paypal: https://github.com/django-oscar/django-oscar-paypal
-.. _`Express Checkout`: https://www.paypal.com/uk/cgi-bin/webscr?cmd=_additional-payment-ref-impl1
-.. _`PayFlow Pro`: https://merchant.paypal.com/us/cgi-bin/?cmd=_render-content&content_ID=merchant/payment_gateway
-.. _django-oscar-accounts: https://github.com/django-oscar/django-oscar-accounts
-.. _django-oscar-easyrec: https://github.com/django-oscar/django-oscar-easyrec
-.. _EasyRec: http://easyrec.org/
-.. _django-oscar-eway: https://github.com/snowball-one/django-oscar-eway
-.. _django-oscar-stores: https://github.com/django-oscar/django-oscar-stores
-.. _django-oscar-sagepay-direct: https://github.com/django-oscar/django-oscar-sagepay-direct
-.. _eWay: https://www.eway.com.au
-.. _django_oscar_docdata: https://github.com/django-oscar/django-oscar-docdata
-.. _Docdata: https://www.docdatapayments.com/
-.. _django_oscar_invoices: https://github.com/django-oscar/django-oscar-invoices
 
 The following are community-written extensions:
 
