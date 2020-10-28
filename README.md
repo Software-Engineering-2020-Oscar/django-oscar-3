@@ -142,16 +142,15 @@ make changes?  Check out the `contributing guidelines`_.
 .. _`contributing guidelines`: https://django-oscar.readthedocs.io/en/stable/internals/contributing/index.html
 
 
-Extensions
-----------
+### Extensions
 
 The following extensions are stable and ready for use:
 
-* django-oscar-api_ - RESTful JSON API for django-oscar
+* [django-oscar-api](https://github.com/django-oscar/django-oscar-api) - RESTful JSON API for django-oscar
 
-* django-oscar-adyen_ - Integration with the Adyen payment gateway
+* [django-oscar-adyen](https://github.com/django-oscar/django-oscar-adyen) - Integration with the Adyen payment gateway
 
-* django-oscar-datacash_ - Integration with the DataCash_ payment gateway
+* [django-oscar-datacash](https://github.com/django-oscar/django-oscar-datacash) - Integration with the DataCash_ payment gateway
 
 * django-oscar-paypal_ - Integration with PayPal.  This currently supports both
   `Express Checkout`_ and `PayFlow Pro`_.
@@ -173,10 +172,7 @@ The following extensions are stable and ready for use:
 
 * django_oscar_invoices_ - Invoices or receipts generation for the
   Oscar
-
-.. _django-oscar-api: https://github.com/django-oscar/django-oscar-api
-.. _django-oscar-adyen: https://github.com/django-oscar/django-oscar-adyen
-.. _django-oscar-datacash: https://github.com/django-oscar/django-oscar-datacash
+  
 .. _django-oscar-paymentexpress: https://github.com/django-oscar/django-oscar-paymentexpress
 .. _`Payment Express`: http://www.paymentexpress.com
 .. _DataCash: http://www.datacash.com/
