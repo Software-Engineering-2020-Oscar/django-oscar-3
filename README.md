@@ -109,38 +109,9 @@ Supported verions are eligible for fixes for data loss bugs and security issues.
 Long-term support (LTS) releases will receive support for an extended period of 3 years from their release date.
 
 
-Screenshots
------------
+# Screenshots
 
-Sandbox
-~~~~~~~
-
-These are screenshots from the 'sandbox' example site that ships with
-Oscar.  It sports a simple design built with Twitter's Bootstrap_ and provides a
-good starting point for rapidly building elegant e-commerce sites.
-
-.. _Bootstrap: https://getbootstrap.com/
-
-.. image:: https://github.com/django-oscar/django-oscar/raw/master/docs/images/screenshots/browse.thumb.png
-    :target: https://github.com/django-oscar/django-oscar/raw/master/docs/images/screenshots/browse.png
-
-.. image:: https://github.com/django-oscar/django-oscar/raw/master/docs/images/screenshots/detail.thumb.png
-    :target: https://github.com/django-oscar/django-oscar/raw/master/docs/images/screenshots/detail.png
-
-.. image:: https://github.com/django-oscar/django-oscar/raw/master/docs/images/screenshots/basket.thumb.png
-    :target: https://github.com/django-oscar/django-oscar/raw/master/docs/images/screenshots/basket.png
-
-.. image:: https://github.com/django-oscar/django-oscar/raw/master/docs/images/screenshots/dashboard.thumb.png
-    :target: https://github.com/django-oscar/django-oscar/raw/master/docs/images/screenshots/dashboard.png
-
-The sandbox site is also available to browse at https://latest.oscarcommerce.com.
-
-The sandbox site can be set-up locally `in 5 commands`_.  Want to
-make changes?  Check out the `contributing guidelines`_.
-
-.. _`in 5 commands`: https://django-oscar.readthedocs.io/en/stable/internals/sandbox.html#running-the-sandbox-locally
-.. _`contributing guidelines`: https://django-oscar.readthedocs.io/en/stable/internals/contributing/index.html
-
+## Sandbox
 
 ### Extensions
 
