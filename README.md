@@ -25,19 +25,17 @@ Further reading:
 
 * [`Official homepage`](http://oscarcommerce.com)
 * [`Sandbox site`](https://latest.oscarcommerce.com)
-* [`Our main site using sandbox`]('https://www.giadungthongminhsg.com')
-* `Documentation`_ on the excellent `readthedocs.org`_
-* `Docker image`_ on http://hub.docker.com/
-* `django-oscar group`_ - mailing list for questions and announcements
-* `django-oscar-jobs group`_ - mailing list for job offers
-* `Continuous integration homepage`_ on `travis-ci.org`_
-* `Twitter account for news and updates`_
-* #django-oscar on Freenode (community-run IRC channel) with `public logs`_
-* `Slack`_
-* `PyPI page`_
-* `Transifex project`_ - translating Oscar made easy
-
-.. start-no-pypi
+* [`Our main site using sandbox`](https://www.giadungthongminhsg.com)
+* [`Documentation`](https://django-oscar.readthedocs.io/en/stable/) on the excellent [readthedocs.org`](http://readthedocs.org)
+* [`Docker image`](https://hub.docker.com/r/oscarcommerce/django-oscar-sandbox/)
+* [`django-oscar group`](https://groups.google.com/forum/?fromgroups#!forum/django-oscar) - mailing list for questions and announcements
+* [`django-oscar-jobs group`](https://groups.google.com/forum/?fromgroups#!forum/django-oscar-jobs) - mailing list for job offers
+* [`Continuous integration homepage`](http://travis-ci.org/#!/django-oscar/django-oscar) on [`travis-ci.org`](http://travis-ci.org/)
+* [`Twitter account for news and updates`](https://twitter.com/#!/django_oscar)
+* #django-oscar on Freenode (community-run IRC channel) with [`public logs`](https://botbot.me/freenode/django-oscar/)
+* [`Slack`](https://slack.oscarcommerce.com/)
+* [`PyPI page`](https://pypi.python.org/pypi/django-oscar/)
+* [`Transifex project`](https://www.transifex.com/projects/p/django-oscar/) - translating Oscar made easy
 
 Continuous integration status:
 
@@ -46,22 +44,6 @@ Continuous integration status:
 [![Foo](https://requires.io/github/django-oscar/django-oscar/requirements.svg?branch=master)](https://requires.io/github/django-oscar/django-oscar/requirements/?branch=master)
 [![Foo](https://img.shields.io/pypi/v/django-oscar.svg)](https://pypi.python.org/pypi/django-oscar/)
 [![Foo](https://readthedocs.org/projects/django-oscar/badge/)](https://readthedocs.org/projects/django-oscar/)
-
-
-.. _`Official homepage`: http://oscarcommerce.com
-.. _`Sandbox site`: 
-.. _`Docker image`: https://hub.docker.com/r/oscarcommerce/django-oscar-sandbox/
-.. _`Documentation`: https://django-oscar.readthedocs.io/en/stable/
-.. _`readthedocs.org`: http://readthedocs.org
-.. _`Continuous integration homepage`: http://travis-ci.org/#!/django-oscar/django-oscar
-.. _`travis-ci.org`: http://travis-ci.org/
-.. _`Twitter account for news and updates`: https://twitter.com/#!/django_oscar
-.. _`public logs`: https://botbot.me/freenode/django-oscar/
-.. _`django-oscar group`: https://groups.google.com/forum/?fromgroups#!forum/django-oscar
-.. _`django-oscar-jobs group`: https://groups.google.com/forum/?fromgroups#!forum/django-oscar-jobs
-.. _`PyPI page`: https://pypi.python.org/pypi/django-oscar/
-.. _`Transifex project`: https://www.transifex.com/projects/p/django-oscar/
-.. _`Slack`: https://slack.oscarcommerce.com/
 
 ### Core team of Oscar:
 
