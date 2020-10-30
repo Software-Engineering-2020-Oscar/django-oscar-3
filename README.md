@@ -23,8 +23,9 @@ Contents:
 
 Further reading:
 
-* `Official homepage`_
-* `Sandbox site`_ (automatically deployed via the official docker sandbox image)
+* [`Official homepage`](http://oscarcommerce.com)
+* [`Sandbox site`](https://latest.oscarcommerce.com)
+* [`Our main site using sandbox`]('https://www.giadungthongminhsg.com')
 * `Documentation`_ on the excellent `readthedocs.org`_
 * `Docker image`_ on http://hub.docker.com/
 * `django-oscar group`_ - mailing list for questions and announcements
@@ -40,32 +41,15 @@ Further reading:
 
 Continuous integration status:
 
-.. image:: https://travis-ci.org/django-oscar/django-oscar.svg?branch=master
-    :target: https://travis-ci.org/django-oscar/django-oscar
+[![Foo](https://travis-ci.org/django-oscar/django-oscar.svg?branch=master)](https://travis-ci.org/django-oscar/django-oscar)
+[![Foo](http://codecov.io/github/django-oscar/django-oscar/coverage.svg?branch=master)](http://codecov.io/github/django-oscar/django-oscar?branch=master)
+[![Foo](https://requires.io/github/django-oscar/django-oscar/requirements.svg?branch=master)](https://requires.io/github/django-oscar/django-oscar/requirements/?branch=master)
+[![Foo](https://img.shields.io/pypi/v/django-oscar.svg)](https://pypi.python.org/pypi/django-oscar/)
+[![Foo](https://readthedocs.org/projects/django-oscar/badge/)](https://readthedocs.org/projects/django-oscar/)
 
-.. image:: http://codecov.io/github/django-oscar/django-oscar/coverage.svg?branch=master
-    :alt: Coverage
-    :target: http://codecov.io/github/django-oscar/django-oscar?branch=master
-
-.. image:: https://requires.io/github/django-oscar/django-oscar/requirements.svg?branch=master
-     :target: https://requires.io/github/django-oscar/django-oscar/requirements/?branch=master
-     :alt: Requirements Status
-
-PyPI status:
-
-.. image:: https://img.shields.io/pypi/v/django-oscar.svg
-    :target: https://pypi.python.org/pypi/django-oscar/
-
-Docs status:
-
-.. image:: https://readthedocs.org/projects/django-oscar/badge/
-   :target: https://readthedocs.org/projects/django-oscar/
-   :alt: Documentation Status
-
-.. end-no-pypi
 
 .. _`Official homepage`: http://oscarcommerce.com
-.. _`Sandbox site`: https://latest.oscarcommerce.com
+.. _`Sandbox site`: 
 .. _`Docker image`: https://hub.docker.com/r/oscarcommerce/django-oscar-sandbox/
 .. _`Documentation`: https://django-oscar.readthedocs.io/en/stable/
 .. _`readthedocs.org`: http://readthedocs.org
