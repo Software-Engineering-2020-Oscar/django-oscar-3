@@ -5,10 +5,10 @@
 </p>
 
 # Table of Contents
-### [Introduction](#intro)
-### [Caution read](#caution)
-### [Core team](#core)
-### [My team](#team)
+* ### [Introduction](#intro)
+* ### [Caution read](#caution)
+* ### [Core team](#core)
+* ### [My team](#team)
 
 
 <a name="intro"></a>
