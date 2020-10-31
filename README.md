@@ -4,6 +4,14 @@
   <img src = "https://github.com/NhutNguyen236/django-oscar-2/blob/master/docs/images/logos/oscar.png"/>
 </p>
 
+# Table of Contents
+### [Introduction](#intro)
+### [Caution read](#caution)
+### [Core team](#core)
+### [My team](#team)
+
+
+<a name="intro"></a>
 # Domain-driven e-commerce for Django
 
 Oscar is an e-commerce framework for Django designed for building domain-driven
@@ -12,6 +20,7 @@ customised to suit the needs of your project.  This allows a wide range of
 e-commerce requirements to be handled, from large-scale B2C sites to complex B2B
 sites rich in domain-specific business logic.
 
+<a name="caution"></a>
 # Caution - must read :thinking:
 * Please mark this as we are junior from TDTU and this repo is consumed as a fair-used project to submit to our subject Software Engineering only, which means there will be no further application in the future.
 * If you want to re-use, please contact me through my email which is provided above. 
@@ -45,6 +54,7 @@ Continuous integration status:
 [![Foo](https://img.shields.io/pypi/v/django-oscar.svg)](https://pypi.python.org/pypi/django-oscar/)
 [![Foo](https://readthedocs.org/projects/django-oscar/badge/)](https://readthedocs.org/projects/django-oscar/)
 
+<a name="core"></a>
 ### Core team of Oscar:
 
 * [`David Winterbottom`](https://github.com/codeinthehole)
@@ -54,6 +64,7 @@ Continuous integration status:
 * [`Alexander Gaevsky`](https://github.com/sasha0)
 * [`Samir Shah`](https://github.com/solarissmoke)
 
+<a name="team"></a>
 ### My projetc team:
 
 * [`Dang Duc Vinh`]()
