@@ -1,9 +1,21 @@
+<p align = "center">
+  <img src = "https://images2.minutemediacdn.com/image/upload/c_fit,f_auto,fl_lossy,q_auto,w_728/v1555999902/shape/mentalfloss/construction_8.gif?itok=i0AHeyO3" height = "180"/>
+</p>
+
 # Contributions for Django-Oscar project :smile:
 
 <p align = "center">
   <img src = "https://github.com/NhutNguyen236/django-oscar-2/blob/master/docs/images/logos/oscar.png"/>
 </p>
 
+# Table of Contents
+* ### [Introduction](#intro)
+* ### [Caution read](#caution)
+* ### [Core team](#core)
+* ### [My team](#team)
+
+
+<a name="intro"></a>
 # Domain-driven e-commerce for Django
 
 Oscar is an e-commerce framework for Django designed for building domain-driven
@@ -12,6 +24,7 @@ customised to suit the needs of your project.  This allows a wide range of
 e-commerce requirements to be handled, from large-scale B2C sites to complex B2B
 sites rich in domain-specific business logic.
 
+<a name="caution"></a>
 # Caution - must read :thinking:
 * Please mark this as we are junior from TDTU and this repo is consumed as a fair-used project to submit to our subject Software Engineering only, which means there will be no further application in the future.
 * If you want to re-use, please contact me through my email which is provided above. 
@@ -45,6 +58,7 @@ Continuous integration status:
 [![Foo](https://img.shields.io/pypi/v/django-oscar.svg)](https://pypi.python.org/pypi/django-oscar/)
 [![Foo](https://readthedocs.org/projects/django-oscar/badge/)](https://readthedocs.org/projects/django-oscar/)
 
+<a name="core"></a>
 ### Core team of Oscar:
 
 * [`David Winterbottom`](https://github.com/codeinthehole)
@@ -54,6 +68,7 @@ Continuous integration status:
 * [`Alexander Gaevsky`](https://github.com/sasha0)
 * [`Samir Shah`](https://github.com/solarissmoke)
 
+<a name="team"></a>
 ### My projetc team:
 
 * [`Dang Duc Vinh`]()
@@ -202,14 +217,17 @@ Many more on the way.  If you use Oscar in production, please `let us know`_.
 
 .. _`let us know`: https://github.com/django-oscar/oscarcommerce.com/issues
 
-Looking for commercial support?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Looking for commercial support?
 
 If you are interested in having an Oscar project built for you, or for
-development of an existing Oscar site then please get in touch via `info@oscarcommerce.com`_.
+development of an existing Oscar site then please get in touch via [`info@oscarcommerce.com`](mailto:info@oscarcommerce.com)
 
-.. _`info@oscarcommerce.com`: mailto:info@oscarcommerce.com
+## Deployment details
+* As the trend of cloud services and web hosting, we chose a online web hosting service named [Pythonanywhere](https://www.pythonanywhere.com/) to host a Django-Python web app such as Oscar
+<p align = "center">
+  <img src = "https://www.pythonanywhere.com/static/anywhere/images/PA-logo-large.png"/>
+</p>
 
-Deployment infor
-------------
-* Django-Oscar in my case was deployed on Pythonanywhere and the domain name is `giadungthongminhsg.com <https://www.giadungthongminhsg.com/>`_
+* Django-Oscar in my case was deployed on Pythonanywhere and the domain name is [`giadungthongminhsg.com`](https://www.giadungthongminhsg.com/)
+* There will be more detailed deployment guide in our [Deployment.docx](/docs/course-documentation/deployment-instruction.docx)
+
