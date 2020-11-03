@@ -228,5 +228,5 @@ development of an existing Oscar site then please get in touch via [`info@oscarc
   <img src = "https://www.pythonanywhere.com/static/anywhere/images/PA-logo-large.png"/>
 </p>
 
-* Django-Oscar in my case was deployed on Pythonanywhere and the domain name is `giadungthongminhsg.com <https://www.giadungthongminhsg.com/>`_
+* Django-Oscar in my case was deployed on Pythonanywhere and the domain name is [`giadungthongminhsg.com`](https://www.giadungthongminhsg.com/)
 
