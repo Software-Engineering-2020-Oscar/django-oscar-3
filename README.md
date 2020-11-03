@@ -217,16 +217,16 @@ Many more on the way.  If you use Oscar in production, please `let us know`_.
 
 .. _`let us know`: https://github.com/django-oscar/oscarcommerce.com/issues
 
-Looking for commercial support?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### Looking for commercial support?
 
 If you are interested in having an Oscar project built for you, or for
-development of an existing Oscar site then please get in touch via `info@oscarcommerce.com`_.
+development of an existing Oscar site then please get in touch via [`info@oscarcommerce.com`](mailto:info@oscarcommerce.com)
 
-.. _`info@oscarcommerce.com`: mailto:info@oscarcommerce.com
+## Deployment details
+* As the trend of cloud services and web hosting, we chose a online web hosting service named [Pythonanywhere](https://www.pythonanywhere.com/) to host a Django-Python web app such as Oscar
+<p align = "center">
+  <img src = "https://www.pythonanywhere.com/static/anywhere/images/PA-logo-large.png"/>
+</p>
 
-Deployment infor
-------------
 * Django-Oscar in my case was deployed on Pythonanywhere and the domain name is `giadungthongminhsg.com <https://www.giadungthongminhsg.com/>`_
-
 
