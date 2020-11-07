@@ -69,7 +69,7 @@ Continuous integration status:
 * [`Samir Shah`](https://github.com/solarissmoke)
 
 <a name="team"></a>
-### My projetc team:
+### My project team:
 
 * [`Dang Duc Vinh`]()
 * [`Nguyen Minh Nhut`](https://github.com/NhutNguyen236)
