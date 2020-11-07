@@ -179,9 +179,9 @@ License
 
 Oscar is released under the permissive `New BSD license`_ (see summary_).
 
-.. _summary: https://tldrlegal.com/license/bsd-3-clause-license-(revised)
+ * `Summary`: https://tldrlegal.com/license/bsd-3-clause-license-(revised)
 
-.. _`New BSD license`: https://github.com/django-oscar/django-oscar/blob/master/LICENSE
+ * `New BSD license`: https://github.com/django-oscar/django-oscar/blob/master/LICENSE
 
 Case studies
 ------------
@@ -192,7 +192,7 @@ http://oscarcommerce.com/cases.html for an overview.
 
 Many more on the way.  If you use Oscar in production, please `let us know`_.
 
-.. _`let us know`: https://github.com/django-oscar/oscarcommerce.com/issues
+* `Let us know`: https://github.com/django-oscar/oscarcommerce.com/issues
 
 ### Looking for commercial support?
 
