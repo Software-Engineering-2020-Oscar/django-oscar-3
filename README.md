@@ -157,7 +157,7 @@ The following are community-written extensions:
   [`CyberSource Secure Acceptance Silent Order Post`](https://www.cybersource.com/products/payment_security/secure_acceptance_silent_order_post/)_ as an order payment
   method.
 
-* [django-oscar-wfrs] (https://github.com/thelabnyc/django-oscar-wfrs)- Oscar WFRS is a plugin for django-oscar-api-checkout_
+* [django-oscar-wfrs](https://github.com/thelabnyc/django-oscar-wfrs)- Oscar WFRS is a plugin for django-oscar-api-checkout_
   that makes it possible to use [`Wells Fargo Retail Services`](https://retailservices.wellsfargo.com/)_ as an order
   payment method.
 
