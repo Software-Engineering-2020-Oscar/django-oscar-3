@@ -70,12 +70,14 @@ Continuous integration status:
 
 <a name="team"></a>
 ### My project team:
+* Documentation team:
+  * [`Vo Lam Duy Thuan`]()
+  * [`Ha Quan Quan`](https://github.com/Blanc-2308)
+* Coding team:  
+  * [`Dang Duc Vinh`]()
+  * [`Nguyen Minh Nhut`](https://github.com/NhutNguyen236)
+  * [`Nguyen Thanh Nguyen`](https://github.com/kiddonguyen)
 
-* [`Dang Duc Vinh`]()
-* [`Nguyen Minh Nhut`](https://github.com/NhutNguyen236)
-* [`Nguyen Thanh Nguyen`](https://github.com/kiddonguyen)
-* [`Vo Lam Duy Thuan`]()
-* [`Ha Quan Quan`](https://github.com/Blanc-2308)
 
 Supported versions
 ------------------
