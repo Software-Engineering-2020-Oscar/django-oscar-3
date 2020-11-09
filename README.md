@@ -2,7 +2,7 @@
   <img src = "https://images2.minutemediacdn.com/image/upload/c_fit,f_auto,fl_lossy,q_auto,w_728/v1555999902/shape/mentalfloss/construction_8.gif?itok=i0AHeyO3" height = "180"/>
 </p>
 
-# Contributions for Django-Oscar project :smile:
+# Documents Contributions for Django-Oscar project :smile:
 
 <p align = "center">
   <img src = "https://github.com/NhutNguyen236/django-oscar-2/blob/master/docs/images/logos/oscar.png"/>
