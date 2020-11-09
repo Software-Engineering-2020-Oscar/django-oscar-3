@@ -11,6 +11,7 @@
 # Table of Contents
 * ### [Introduction](#intro)
 * ### [Caution read](#caution)
+* ### [Repo description](#des)
 * ### [Core team](#core)
 * ### [My team](#team)
 
@@ -29,6 +30,10 @@ sites rich in domain-specific business logic.
 * Please mark this as we are junior from TDTU and this repo is consumed as a fair-used project to submit to our subject Software Engineering only, which means there will be no further application in the future.
 * If you want to re-use, please contact me through my email which is provided above. 
 * If you're trying to bypass the rules, you know what will come. :relieved:
+
+<a name="des"></a>
+# Repo description:
+* This repo can be expected as a documentation storage and Oscar main source code.
 
 Contents:
 
