@@ -76,7 +76,7 @@ Continuous integration status:
 <a name="team"></a>
 ### Project Documentation team:
 * Documentation team:
-  * [`Vo Lam Duy Thuan`]()
+  * [`Vo Lam Duy Thuan`](https://github.com/thuan15995pr)
   * [`Ha Quan Quan`](https://github.com/Blanc-2308)
 
 Supported versions
